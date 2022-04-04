@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885456477891",
+    "project_id": "homeaidedatabase",
+    "storage_bucket": "homeaidedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885456477891:android:967d211f59fc1418e44c76",
+        "android_client_info": {
+          "package_name": "com.example.testing01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885456477891-ug16gmp0l5uvns80svph12bmn25qp4rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgg0h4o6gKsUginnJQs-ZKWR-h4Dsriyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885456477891-ug16gmp0l5uvns80svph12bmn25qp4rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
