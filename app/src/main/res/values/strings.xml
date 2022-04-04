@@ -12,7 +12,6 @@
     <string name="description1">You can call on us for home service in the
         Philippines no matter what problem you’re facing at home. After all, we are your home
         service specialists in Philippines who can deal with it all. </string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_technician_logout">Technician_Logout</string>
     <string name="prompt_email">Email</string>
